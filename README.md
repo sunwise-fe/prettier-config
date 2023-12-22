@@ -23,10 +23,16 @@ Edit package.json ( 编辑 package.json )
 
 ```json
 // config
-"prettier": "@fzf404/prettier-config"
+"prettier": "@sunwise/prettier-config"
 
 // script
 "scripts": {
   "format": "prettier --cache --write ."
 }
 ```
+
+## 参考资料
+
++ [fzf404/prettier-config](https://github.com/fzf404/prettier-config)
+
++ [sxzz/prettier-config](https://github.com/sxzz/prettier-config)
