@@ -1,6 +1,6 @@
 {
   "name": "@sunwise/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Prettier config for sunwise-fe",
   "license": "MIT",
   "homepage": "https://github.com/sunwise-fe/prettier-config#readme",
