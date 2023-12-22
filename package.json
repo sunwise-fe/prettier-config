@@ -1,0 +1,29 @@
+{
+  "name": "@sunwise/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for sunwise-fe",
+  "license": "MIT",
+  "homepage": "https://github.com/sunwise-fe/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/sunwise-fe/prettier-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanhaoyuan/prettier-config.git"
+  },
+  "author": "zuopf769 <469547164@qq.com> (https://github.com/zuopf769)",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "release": "bumpp && pnpm publish"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "bumpp": "^9.2.1",
+    "prettier": "^3.1.1"
+  },
+  "prettier": "./index.js"
+}
